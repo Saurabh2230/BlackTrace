@@ -20,7 +20,7 @@
 ## 🛠️ Installation
 
 ```bash
-git clone https://github.com/Saurabh2230/blacktrace.git
+git clone https://github.com/Saurabh2230/blackTrace.git
 cd blacktrace
 chmod +x blacktrace.sh
 ./blacktrace.sh
