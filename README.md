@@ -9,7 +9,6 @@
 - 📦 JavaScript URL Extraction using `katana` and `waybackurls`
 - 🕵️ Secret Detection in JS files (API keys, tokens, secrets, etc.)
 - 📂 Output Files: `domain.txt`, `alive.txt`, `js.txt`, `result.txt`
-- 🎨 Stylish banner using `figlet` + `lolcat`
 
 ## 🔧 Requirements
 
